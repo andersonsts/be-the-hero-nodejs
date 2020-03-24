@@ -17,7 +17,7 @@
 
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/andersonsts/be-the-hero-nodejs">  
 
-  <img alt="Repository issues" src="https://img.shields.io/github/issues/andersonsts/be-the-hero-nodejs?style=social">
+  <img alt="Repository issues" src="https://img.shields.io/github/issues/andersonsts/be-the-hero-nodejs">
 </p>
 
 <p align="center">
