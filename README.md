@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Be the Hero" src="https://res.cloudinary.com/dmhdlolqy/image/upload/v1585076846/herod_a8h4pf.png" />
     <br />
-    Be The Hero
+    API - Be The Hero - NodeJS
 </h1>
 
 <h4 align="center">
