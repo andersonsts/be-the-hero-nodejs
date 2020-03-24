@@ -22,45 +22,45 @@
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#bookmark_tabs-requisitos">Requisitos</a>
+  <a href="#computer-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-executar">Executar</a>
 </p>
 
-![App Screenshot](https://res.cloudinary.com/andersonsts/image/upload/v1584477440/home_ckrkdf.png)
+![App Screenshot](https://res.cloudinary.com/dmhdlolqy/image/upload/v1585076846/herod_a8h4pf.png)
 
-![App Screenshot2](https://res.cloudinary.com/andersonsts/image/upload/v1584477440/cart_xgns8o.png)
+![App Screenshot2](https://res.cloudinary.com/dmhdlolqy/image/upload/v1585076846/herod_a8h4pf.png)
 
 ## :rocket: Tecnologias
 
-Este projeto foi desenvolvido no [Bootcamp GoStack - Rocketseat](https://rocketseat.com.br/bootcamp), com as seguintes tecnologias:
+Este projeto foi desenvolvido na [Semana OmniStack 11 - Rocketseat](https://rocketseat.com.br/week/inscricao/11.0), com as seguintes tecnologias:
 
--  [ReactJS](https://reactjs.org/)
--  [Redux](https://redux.js.org/)
--  [Redux-Saga](https://redux-saga.js.org/)
--  [React Router v4](https://github.com/ReactTraining/react-router)
--  [Axios](https://github.com/axios/axios)
--  [History](https://www.npmjs.com/package/history)
--  [Immer](https://github.com/immerjs/immer)
--  [Polished](https://polished.js.org/)
--  [React-Toastify](https://fkhadra.github.io/react-toastify/)
--  [styled-components](https://www.styled-components.com/)
--  [React-Icons](https://react-icons.netlify.com/)
--  [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton)
--  [react-loader-spinner](https://github.com/mhnpd/react-loader-spinner)
--  [json-server](https://github.com/typicode/json-server)
--  [Reactotron](https://infinite.red/reactotron)
--  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+-  [NodeJS](https://nodejs.org/en/)
+-  [ExpressJS](https://expressjs.com/)
+-  [Nodemon](https://nodemon.io/)
+-  [Knex](http://knexjs.org/)
+-  [SQLite](https://www.sqlite.org/index.html)
+-  [Cors](https://github.com/expressjs/cors)
+-  [VS Code][vc] 
 
-## :information_source: Como usar
+## :books: Funcionalidades
+
+Essa API possui as seguintes funcionalidades:
+
+- Cadastro e login de ONGs e armazenamento de dados no SQLite
+- Listar todos os casos/incidentes existentes na plataforma, assim como casos específicos de cada ONG
+- A ONG pode cadastrar e exluir casos 
+- Paginação nas rotas que retornam todos os casos existentes e casos pertencentes a cada ONG
+
+## :information_source: Executar
 
 Para clonar e executar essa aplicação você precisa do [Git](https://git-scm.com), [Node.js v10.16][nodejs] ou superior + [Yarn v1.13][yarn] ou superior instalado em sua máquina. Em seu terminal de comando, execute:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/andersonsts/react-rocketshoes
+$ git clone https://github.com/andersonsts/be-the-hero-nodejs
 
 # Entre no repositorio
-$ cd react-rocketshoes
+$ cd be-the-hero-nodejs
 
 # Instale as dependências
 $ yarn install
@@ -69,19 +69,9 @@ $ yarn install
 $ yarn start
 ```
 
-## :bookmark_tabs: Requisitos
-Antes de executar a aplicação, insira em seu terminal o comando abaixo para iniciar
-a api utilizando [json-server](https://github.com/typicode/json-server).
-
-```bash
-# Executa a api na porta 3333
-$ json-server server.json -p 3333 -w 
-
-```
-
 ---
 
-:rocket: Feito por Anderson Santos :wave: [Entre em contato!](https://www.linkedin.com/in/andersonst-dev)
+:rocket: Feito com ♥ por Anderson Santos :wave: [Entre em contato!](https://www.linkedin.com/in/andersonst-dev)
 
 
 [nodejs]: https://nodejs.org/
