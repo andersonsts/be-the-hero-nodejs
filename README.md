@@ -9,15 +9,15 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/andersonsts/react-rocketshoes">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/count/andersonsts/be-the-hero-nodejs">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/andersonsts/react-rocketshoes">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/andersonsts/be-the-hero-nodejs">
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andersonsts/react-rocketshoes">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andersonsts/be-the-hero-nodejs">
 
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/andersonsts/react-rocketshoes">  
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/andersonsts/be-the-hero-nodejs">  
 
-  <img alt="Repository issues" src="https://img.shields.io/github/issues/andersonsts/react-rocketshoes">
+  <img alt="Repository issues" src="https://img.shields.io/github/issues/andersonsts/be-the-hero-nodejs?style=social">
 </p>
 
 <p align="center">
