@@ -22,13 +22,9 @@
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#books-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-executar">Executar</a>
 </p>
-
-![App Screenshot](https://res.cloudinary.com/dmhdlolqy/image/upload/v1585076846/herod_a8h4pf.png)
-
-![App Screenshot2](https://res.cloudinary.com/dmhdlolqy/image/upload/v1585076846/herod_a8h4pf.png)
 
 ## :rocket: Tecnologias
 
@@ -46,7 +42,7 @@ Este projeto foi desenvolvido na [Semana OmniStack 11 - Rocketseat](https://rock
 
 Essa API possui as seguintes funcionalidades:
 
-- Cadastro e login de ONGs e armazenamento de dados no SQLite
+- Cadastro e login de ONGs, utilizando o SQLite para armazenamento de dados
 - Listar todos os casos/incidentes existentes na plataforma, assim como casos específicos de cada ONG
 - A ONG pode cadastrar e exluir casos 
 - Paginação nas rotas que retornam todos os casos existentes e casos pertencentes a cada ONG
